@@ -3,7 +3,8 @@
 [![Build Status](https://github.com/SergioBenitez/Rocket/workflows/CI/badge.svg)](https://github.com/SergioBenitez/Rocket/actions)
 [![Rocket Homepage](https://img.shields.io/badge/web-rocket.rs-red.svg?style=flat&label=https&colorB=d33847)](https://rocket.rs)
 [![Current Crates.io Version](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)
-[![Matrix: #rocket:mozilla.org](https://img.shields.io/badge/style-%23rocket:mozilla.org-blue.svg?style=flat&label=[m])](https://chat.mozilla.org/#/room/#rocket:mozilla.org)
+[![Matrix: #rocket:mozilla.org](https://img.shields.io/badge/style-%23rocket:mozilla.org-blue.svg?style=flat&label=[m])[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesethatcher%2FRocket.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesethatcher%2FRocket?ref=badge_shield)
+](https://chat.mozilla.org/#/room/#rocket:mozilla.org)
 [![IRC: #rocket on chat.freenode.net](https://img.shields.io/badge/style-%23rocket-blue.svg?style=flat&label=freenode)](https://kiwiirc.com/client/chat.freenode.net/#rocket)
 
 Rocket is an async web framework for Rust with a focus on usability, security,
@@ -163,3 +164,6 @@ Rocket is licensed under either of the following, at your option:
  * MIT License ([LICENSE-MIT](LICENSE-MIT) or https://opensource.org/licenses/MIT)
 
 The Rocket website source is licensed under [separate terms](site#license).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesethatcher%2FRocket.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesethatcher%2FRocket?ref=badge_large)
